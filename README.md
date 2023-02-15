@@ -1,3 +1,3 @@
 # Galaxy-Solutions-NovaBot
-![NovaBot](Novabot.png.png)
+![NovaBot](Novabot.png)
 3rd year robotics project
