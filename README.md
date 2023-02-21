@@ -1,6 +1,5 @@
 # Galaxy-Solutions-NovaBot
-![NovaBot](Novabot.png)
-3rd year robotics project  
+![NovaBot](Novabot.png) 
 
 A record of my 3rd year group project to create an automonous system capable of tracking 'rogue' droids by:
 - identifing an error signal amongst multiple droids; and then
